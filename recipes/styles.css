@@ -1,0 +1,16 @@
+img {
+    height: 400px;
+    width: 400px;
+}
+.fz20 {
+    height: 600px;
+    width: 600px;
+}
+.title {
+font-style: italic;
+; 
+}
+.top {
+    font-size: 20;
+    color: red;
+}
